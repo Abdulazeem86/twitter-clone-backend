@@ -1,4 +1,3 @@
-const { Gif } = require("@material-ui/icons");
 const Mongoose = require("mongoose");
 
 const feedSchema = Mongoose.Schema({
